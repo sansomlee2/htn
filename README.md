@@ -17,4 +17,4 @@ Input:
     -   the 2nd element is the cost.
 
 Output:
--        maximum # of miles that can be collected
+- maximum # of miles that can be collected
