@@ -13,7 +13,7 @@ Using Python or Java determine the solution. Incorrect solutions will be elimina
 Input: 
 -        Budget: Integer - total amount of money to spend
 -        redemptionList: Integer[][]  - Each element of the list is a tuple, in which
-o   1st element is collectable # of miles, and
-o   the 2nd element is the cost.
+--   1st element is collectable # of miles, and
+--   the 2nd element is the cost.
 Output:
 -        maximum # of miles that can be collected
