@@ -2,7 +2,7 @@ class AirMilesPromption{
 
         
     /* Constructing the Airmiles promotion */
-    public AirMilesPromption(int budget, int[][] days){
+    public AirMilesPromption(int budget, int[][] redemptionList){
     }
 
 
