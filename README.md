@@ -28,7 +28,7 @@ Using Java to determine the solution. Incorrect solutions will be eliminated. Th
 |10|[(3,5),(5,7)]|7|
 |10|[(5,7),(10,12),(4,10)]|17|
 
-### Submission Procedures:
+### Submission Procedure:
 1. Fork the repo
 2. Edit template class AirMilesPromotion.java
 3. Submit a pull request for your code
