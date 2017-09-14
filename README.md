@@ -29,5 +29,7 @@ Using Python or Java to determine the solution. Incorrect solutions will be elim
 |10|[(5,7),(10,12),(4,10)]|17|
 
 ### Submission :
-- Fork the repo, edit template class and submit a pull request for your code.
+1 Fork the repo
+2 Edit template class AirMilesPromotion.java
+3 submit a pull request for your code.
 
