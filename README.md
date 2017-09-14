@@ -22,6 +22,9 @@ Using Python or Java determine the solution. Incorrect solutions will be elimina
 ### Output :
 - maximum # of miles that can be collected
 
+### Example :
+<Fill in example>
+
 ### Submission :
 Candidates will be sending their coding syntax through drop box.  
 https://www.dropbox.com/request/0aGmg8sW0lVVeazqy96w
