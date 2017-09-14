@@ -15,7 +15,7 @@ Using Java to determine the solution. Incorrect solutions will be eliminated. Th
 
 ### Input : 
 - Budget: Positive Integer - total amount of money to spend
-- Campaign: Positive Integer[][]  - Each element of the list is a tuple, in which
+- dailyPromotions: Positive Integer[][]  - Each element of the list is a tuple, in which
     -   1st element is collectable # of miles, and
     -   the 2nd element is the cost.
 
