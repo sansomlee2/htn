@@ -10,7 +10,7 @@ Store X has an airmiles offer, the only constraint in this promotional campaign 
 
 Given a list of tuples, with the first element of the tuple representing the number of miles to be collected and the second element representing the number of dollars required, with each tuple representing the offer that day, determine the maximum number of miles you can obtain in the entire time period. 
 
-Using Python or Java determine the solution. Incorrect solutions will be eliminated. The fastest solution written in each language will be selected through test cases and the solutions will be evaluated manually for complexity. The solution with the best complexity will be the winner.
+Using Python or Java to determine the solution. Incorrect solutions will be eliminated. The fastest solution written in each language will be selected through test cases and the solutions will be evaluated manually for complexity. The solution with the best complexity will be the winner.
 
 
 ### Input : 
