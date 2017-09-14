@@ -14,8 +14,8 @@ Using Python or Java to determine the solution. Incorrect solutions will be elim
 
 
 ### Input : 
-- Budget: Integer - total amount of money to spend
-- redemptionList: Integer[][]  - Each element of the list is a tuple, in which
+- Budget: Positive Integer - total amount of money to spend
+- redemptionList: Positive Integer[][]  - Each element of the list is a tuple, in which
     -   1st element is collectable # of miles, and
     -   the 2nd element is the cost.
 
