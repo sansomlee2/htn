@@ -13,11 +13,15 @@ Given a list of tuples, with the first element of the tuple representing the num
 Using Python or Java determine the solution. Incorrect solutions will be eliminated. The fastest solution written in each language will be selected through test cases and the solutions will be evaluated manually for complexity. The solution with the best complexity will be the winner.
 
 
-### Input: 
+### Input : 
 - Budget: Integer - total amount of money to spend
 - redemptionList: Integer[][]  - Each element of the list is a tuple, in which
     -   1st element is collectable # of miles, and
     -   the 2nd element is the cost.
 
-### Output:
+### Output :
 - maximum # of miles that can be collected
+
+### Submission :
+Candidates will be sending their coding syntax through drop box.  
+https://www.dropbox.com/request/0aGmg8sW0lVVeazqy96w
