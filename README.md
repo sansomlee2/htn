@@ -1,7 +1,7 @@
 # LoyaltyOne Lightning Challenge
 
 ### Time Limit : 
-25 mins
+25 mins - All code must be submitted at the time that staff specify.
 
 ### Challenge :
 You are an Airmiles collector that loves to shop at Store X.
