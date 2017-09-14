@@ -23,7 +23,10 @@ Using Python or Java determine the solution. Incorrect solutions will be elimina
 - maximum # of miles that can be collected
 
 ### Example :
-Fill in an example here
+|budget|campaign (cost, miles)|maxAM|
+|---|---|---|
+|10|[(3,5),(5,7)]|7|
+|10|[(5,7),(10,12),(4,10)]|17|
 
 ### Submission :
 Candidates will be sending their coding syntax through drop box.  
