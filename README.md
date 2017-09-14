@@ -29,5 +29,5 @@ Using Python or Java to determine the solution. Incorrect solutions will be elim
 |10|[(5,7),(10,12),(4,10)]|17|
 
 ### Submission :
-Candidates will be sending their coding syntax through drop box.  
-https://www.dropbox.com/request/0aGmg8sW0lVVeazqy96w
+- Fork the repo and create a pull request for your code.
+
