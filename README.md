@@ -23,7 +23,7 @@ Using Python or Java determine the solution. Incorrect solutions will be elimina
 - maximum # of miles that can be collected
 
 ### Example :
-<Fill in example>
+Fill in an example here
 
 ### Submission :
 Candidates will be sending their coding syntax through drop box.  
