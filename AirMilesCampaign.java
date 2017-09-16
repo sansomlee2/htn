@@ -1,7 +1,7 @@
 class AirMilesCampaign{
 
         
-    /* Constructing the Airmiles promotion */
+    /* Testing Constructing the Airmiles promotion */
     public AirMilesCampaign(int budget, int[][] dailyPromotions){
     }
 
